@@ -1,4 +1,4 @@
-```
+
 # Service: LoyahDev
 - [Open Website](https://buy.loyah.dev/)
 - [Open Email](mailto:loyahdevapp@icloud.com)
@@ -41,4 +41,4 @@ LoyahDev's lifetime plan may become unprofitable because:
 - Apple Pay: yes  
 - Stripe: yes  
 - Cash App: yes
-```
+

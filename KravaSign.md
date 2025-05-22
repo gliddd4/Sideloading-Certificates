@@ -1,4 +1,4 @@
-```
+
 # Service: KravaSign
 - [Open Website](https://kravasign.com/)
 - [Open Discord](https://discord.gg/kravasign)
@@ -20,4 +20,4 @@
 - Device Changing: free for up to 1 device for 1 year
 - Entitlements: JIT, Notifications, VPN
 - Revoke protection: free for 365 days
-```
+

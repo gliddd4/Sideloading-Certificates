@@ -1,4 +1,4 @@
-```
+
 # Service: CynPwn
 - [Open Website](https://cynpwn.vercel.app/)
 - [Open Telegram](https://t.me/cynpwn)
@@ -41,4 +41,4 @@
 
 ### Other information 
 - Refunds: yes (7-day money-back guarantee)
-```
+

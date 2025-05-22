@@ -1,4 +1,4 @@
-```
+
 # Service: AppTesters
 - [Open Website](https://apptesters.org/)
 - [Open Telegram](https://t.me/apptesters)
@@ -40,4 +40,4 @@ AppTesters's lifetime plan may become unprofitable because:
 ### Other information 
 - Wait time: 3 working days (iPhone), instant for iPad and Apple TV
 - Refunds: yes
-```
+

@@ -1,4 +1,4 @@
-```
+
 # Service: Signulous
 - [Open Website](https://www.signulous.com/)
 
@@ -22,4 +22,4 @@
 
 ## Signulous Payment Methods  
 - PayPal: yes
-```
+
