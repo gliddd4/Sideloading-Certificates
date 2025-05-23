@@ -10,12 +10,12 @@ AppTesters's lifetime plan may become unprofitable because:
 - Refunded certificates don't free up user slots, causing the provider to lose money
 
 ## 🔴 Plan: Essential  
-- Supported devices: iPhone  
+- Supported devices: iPhone only
 - Yearly: $15 per device  
 
 ### 🔴 Essential benefits  
-- Entitlements: Notifications, VPN
-- Revoke protection: free for 12 months
+- Entitlements:  Increased Memory Limit, Extended Virtual Addressing, Notifications, VPN 
+- Full Revoke Protection
 - 12 Months Free Support
 
 ## 🟠 Plan: Premium  
@@ -23,8 +23,8 @@ AppTesters's lifetime plan may become unprofitable because:
 - Lifetime: $25 per device  
 
 ### 🟠 Premium benefits  
-- Entitlements: Notifications, VPN, HealthKit, Weatherkit, Custom Entitlements
-- Revoke protection: free for lifetime
+- Entitlements:  Increased Memory Limit, Extended Virtual Addressing, Notifications, VPN, Healthkit, Weatherkit and many more not listed on the website (You'll have to ask them on telegram) 
+- Full Revoke Protection
 - Lifetime Priority Support
 
 ## 🟡 Plan: Ultimate  
@@ -33,8 +33,8 @@ AppTesters's lifetime plan may become unprofitable because:
 
 ### 🟡 Ultimate benefits  
 - Device Changing: free for up to 3 devices for 5 years
-- Entitlements: Notifications, VPN, HealthKit, Weatherkit, Custom Entitlements
-- Revoke protection: free for lifetime
+- Entitlements:  Increased Memory Limit, Extended Virtual Addressing, Notifications, VPN, Healthkit, Weatherkit and many more not listed on the website (You'll have to ask them on telegram) 
+- Full Revoke Protection
 - Lifetime Priority Support
 
 ### Other information 
