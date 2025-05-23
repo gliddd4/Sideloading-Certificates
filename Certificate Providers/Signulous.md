@@ -4,14 +4,14 @@
 
 ## 🔴 Plan: iOS Code Signing  
 - Supported devices: iPhone, iPad  
-- Yearly: $19.99  
+- One Year Certificate: $19.99  
 
 ### 🔴 iOS Code Signing benefits  
 - Revoke protection: free
 
 ## 🟠 Plan: tvOS Code Signing  
 - Supported devices: Apple TV  
-- Yearly: $15.99  
+- One Year Certificate: $15.99  
 
 ### 🟠 tvOS Code Signing benefits  
 - Revoke protection: free

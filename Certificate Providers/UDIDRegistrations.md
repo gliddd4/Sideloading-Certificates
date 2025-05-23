@@ -4,14 +4,14 @@
 
 ## 🔴 Plan: Bronze  
 - Supported devices: iPhone, iPad, Apple Watch  
-- Yearly: $6.99  
+- One Year Certificate: $6.99  
 
 ### 🔴 Bronze benefits  
 - Revoke protection: free for 90 days
 
 ## 🟠 Plan: Silver  
 - Supported devices: iPhone, iPad, Apple Watch  
-- Yearly: $8.99  
+- One Year Certificate: $8.99  
 
 ### 🟠 Silver benefits  
 - Entitlements: Certificate & Provisioning
@@ -19,7 +19,7 @@
 
 ## 🟡 Plan: Gold  
 - Supported devices: iPhone, iPad, Apple Watch  
-- Yearly: $14.99  
+- One Year Certificate: $14.99  
 
 ### 🟡 Gold benefits  
 - Device Changing: free for up to 1 device for 6 months
@@ -29,7 +29,7 @@
 
 ## 🟢 Plan: Platinum  
 - Supported devices: iPhone, iPad, Apple Watch  
-- Yearly: $19.99  
+- One Year Certificate: $19.99  
 
 ### 🟢 Platinum benefits  
 - Device Changing: free for up to 1 device for 6 months

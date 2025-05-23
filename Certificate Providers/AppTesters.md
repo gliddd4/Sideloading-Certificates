@@ -11,7 +11,7 @@ AppTesters's lifetime plan may become unprofitable because:
 
 ## 🔴 Plan: Essential  
 - Supported devices: iPhone only
-- Yearly: $15 per device  
+- One Year Certificate: $15 per device  
 
 ### 🔴 Essential benefits  
 - Entitlements:  Increased Memory Limit, Extended Virtual Addressing, Notifications, VPN 

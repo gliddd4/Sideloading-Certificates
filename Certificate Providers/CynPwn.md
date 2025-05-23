@@ -5,7 +5,7 @@
 
 ## 🔴 Plan: Basic  
 - Supported devices: iPhone, iPad, Apple TV, Mac  
-- Yearly: $2.80 per slot  
+- One Year Certificate: $2.80 per slot  
 
 ### 🔴 Basic benefits  
 - Wait time: 72-96 hour cooldown
@@ -13,7 +13,7 @@
 
 ## 🟠 Plan: Instant  
 - Supported devices: iPhone, iPad, Apple TV, Mac  
-- Yearly: $9.00 per slot  
+- One Year Certificate: $9.00 per slot  
 
 ### 🟠 Instant benefits  
 - Instant delivery/no 3 day wait: free
@@ -22,7 +22,7 @@
 
 ## 🟡 Plan: Protected  
 - Supported devices: iPhone, iPad, Apple TV, Mac  
-- Yearly: $3.50 per slot  
+- One Year Certificate: $3.50 per slot  
 
 ### 🟡 Protected benefits  
 - Revoke protection: free
@@ -31,7 +31,7 @@
 
 ## 🟢 Plan: Premium  
 - Supported devices: iPhone, iPad, Apple TV, Mac  
-- Yearly: $10.00 per slot  
+- One Year Certificate: $10.00 per slot  
 
 ### 🟢 Premium benefits  
 - Revoke protection: free

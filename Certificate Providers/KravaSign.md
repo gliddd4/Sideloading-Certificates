@@ -6,7 +6,7 @@
 
 ## 🔴 Plan: Standard  
 - Supported devices: iPhone, iPad, iPod, Apple TV, Mac, Vision Pro  
-- Yearly: £7  
+- One Year Certificate: £7  
 
 ### 🔴 Standard benefits  
 - Entitlements: JIT, Notifications, VPN
@@ -14,7 +14,7 @@
 
 ## 🟠 Plan: Professional  
 - Supported devices: iPhone, iPad, iPod, Apple TV, Mac, Vision Pro  
-- Yearly: £14  
+- One Year Certificate: £14  
 
 ### 🟠 Professional benefits  
 - Device Changing: free for up to 1 device for 1 year

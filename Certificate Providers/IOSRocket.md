@@ -10,7 +10,7 @@ IOSRocket's lifetime plan may become unprofitable because:
 
 ## 🔴 Plan: Non-Instant Apple Signing Certificate  
 - Supported devices: iPhone, iPad, Apple Vision Pro  
-- Yearly: $8.99  
+- One Year Certificate: $8.99  
 
 ### 🔴 Non-Instant Apple Signing Certificate benefits  
 - Entitlements: Push Notifications, VPN, HealthKit
@@ -18,7 +18,7 @@ IOSRocket's lifetime plan may become unprofitable because:
 
 ## 🟠 Plan: Basic Apple Signing Certificate  
 - Supported devices: iPhone, iPad, Apple Vision Pro  
-- Yearly: $12.99  
+- One Year Certificate: $12.99  
 
 ### 🟠 Basic Apple Signing Certificate benefits  
 - Entitlements: Push Notifications, iCloud, HealthKit, App Groups
@@ -26,7 +26,7 @@ IOSRocket's lifetime plan may become unprofitable because:
 
 ## 🟡 Plan: Apple Signing Certificate with Revoke Protection  
 - Supported devices: iPhone, iPad, Apple Vision Pro  
-- Yearly: $15.99  
+- One Year Certificate: $15.99  
 
 ### 🟡 Apple Signing Certificate with Revoke Protection benefits  
 - Entitlements: Push Notifications, iCloud, HealthKit, App Groups
@@ -35,7 +35,7 @@ IOSRocket's lifetime plan may become unprofitable because:
 
 ## 🟢 Plan: Premium Apple Signing Certificate  
 - Supported devices: iPhone, iPad, Apple Vision Pro  
-- Yearly: $22.99  
+- One Year Certificate: $22.99  
 
 ### 🟢 Premium Apple Signing Certificate benefits  
 - Entitlements: Push Notifications, iCloud, HealthKit, App Groups

@@ -19,7 +19,7 @@ LoyahDev's lifetime plan may become unprofitable because:
 
 ## 🟠 Plan: Standard  
 - Supported devices: iPhone, iPad, Apple TV, Vision Pro  
-- Yearly: $12  
+- One Year Certificate: $12  
 
 ### 🟠 Standard benefits  
 - Entitlements: Custom Entitlements per app

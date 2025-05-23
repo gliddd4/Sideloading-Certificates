@@ -5,14 +5,14 @@
 
 ## 🔴 Plan: Regular  
 - Supported devices: iPhone, iPad  
-- Yearly: $6  
+- One Year Certificate: $6  
 
 ### 🔴 Regular benefits  
 - Certificate & Provisioning: free
 
 ## 🟠 Plan: Instant  
 - Supported devices: iPhone, iPad  
-- Yearly: $10  
+- One Year Certificate: $10  
 
 ### 🟠 Instant benefits  
 - Certificate & Provisioning: free
@@ -20,7 +20,7 @@
 
 ## 🟡 Plan: Ultimate  
 - Supported devices: iPhone, iPad  
-- Yearly: $13  
+- One Year Certificate: $13  
 
 ### 🟡 Ultimate benefits  
 - Certificate & Provisioning: free

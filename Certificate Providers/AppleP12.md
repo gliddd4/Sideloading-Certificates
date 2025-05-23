@@ -5,7 +5,7 @@
 
 ## 🔴 Plan: Ultimate  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $26  
+- One Year Certificate: $26  
 
 ### 🔴 Ultimate benefits  
 - Device Changing: free for up to 1 device for 180 days
@@ -14,7 +14,7 @@
 
 ## 🟠 Plan: Premium  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $20  
+- One Year Certificate: $20  
 
 ### 🟠 Premium benefits  
 - Device Changing: free for up to 1 device for 180 days
@@ -23,7 +23,7 @@
 
 ## 🟡 Plan: Custom  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $18  
+- One Year Certificate: $18  
 
 ### 🟡 Custom benefits  
 - Entitlements: Custom Capabilities
@@ -31,35 +31,35 @@
 
 ## 🟢 Plan: Plus  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $16  
+- One Year Certificate: $16  
 
 ### 🟢 Plus benefits  
 - Instant delivery/no 3 day wait: free
 
 ## 🔵 Plan: Standard  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $14  
+- One Year Certificate: $14  
 
 ### 🔵 Standard benefits  
 - Instant delivery/no 3 day wait: free
 
 ## 🟣 Plan: Slow  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $10.88  
+- One Year Certificate: $10.88  
 
 ### 🟣 Slow benefits  
 - Entitlements: Push Notifications, HealthKit, VPN
 
 ## ⚫️ Plan: Basic  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $9.88  
+- One Year Certificate: $9.88  
 
 ### ⚫️ Basic benefits  
 - Instant delivery/no 3 day wait: free
 
 ## ⚪️ Plan: Started  
 - Supported devices: iPhone, iPad, iPod, Mac, Apple TV  
-- Yearly: $6.88  
+- One Year Certificate: $6.88  
 
 ### Other information 
 - Refunds: no

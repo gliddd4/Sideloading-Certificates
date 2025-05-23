@@ -38,7 +38,7 @@ Example message:
 
 ## 🔴 Plan: [Plan name]  
 - Supported devices: [,iPhone, iPad, Apple TV, Vision Pro]  
-- Yearly: [$cost]  
+- One Year Certificate: [$cost]  
 - Monthly: [$cost]  
 - Lifetime: [$cost]  
 ### 🔴 [Plan name] benefits  

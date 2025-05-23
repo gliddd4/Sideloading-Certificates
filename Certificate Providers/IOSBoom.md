@@ -6,7 +6,7 @@
 
 ## 🔴 Plan: iPad Certificate  
 - Supported devices: iPad  
-- Yearly: $3.99  
+- One Year Certificate: $3.99  
 
 ### 🔴 iPad Certificate benefits  
 - Device Changing: free for up to 1 device for 1 year
@@ -14,7 +14,7 @@
 
 ## 🟠 Plan: iPhone Certificate  
 - Supported devices: iPhone  
-- Yearly: $9.99  
+- One Year Certificate: $9.99  
 
 ### 🟠 iPhone Certificate benefits  
 - Device Changing: free for up to 1 device for 1 year
