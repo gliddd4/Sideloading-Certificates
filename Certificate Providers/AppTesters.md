@@ -16,7 +16,7 @@ AppTesters's lifetime plan may become unprofitable because:
 ### 🔴 Essential benefits  
 - Entitlements:  Increased Memory Limit, Extended Virtual Addressing, Notifications, VPN 
 - Full Revoke Protection
-- 12 Months Free Support
+- 1 Year Free Support
 
 ## 🟠 Plan: Premium  
 - Supported devices: iPhone, iPad, Apple TV, Mac, Vision Pro  
