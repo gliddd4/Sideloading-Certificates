@@ -1,7 +1,5 @@
 # Certiticate Providers
-Documentation for the most popular iOS certificate providers all in one place so you can choose the best one for you.
-
-I have not manually gone through each file and confirmed it has accurate information so please check the website linked in each file.
+Documentation on the most popular certificate providers along with a archive of enterprise certificates for people using the dns method. 
 
 ## Want to contribute?
 - You can send me the certificate providers website and i'll format it
