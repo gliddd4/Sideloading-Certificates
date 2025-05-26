@@ -1,6 +1,8 @@
 # Sideloading Certificates
 Documentation on the most popular certificate providers along with a archive of enterprise certificates for people using the dns method. 
 
+Note: The AI used to format the pricing pulled the pricing from provider websites without context on which benefits apply to which plans. I’ll manually correct any inaccuracies in the future. For now this is a work in progress and shouldnt be relied on.
+
 ### Providers
 [AppTesters](https://github.com/gliddd4/Sideloading-Certificates/blob/main/Certificate%20Providers/AppTesters.md)  
 [AppleP12](https://github.com/gliddd4/Sideloading-Certificates/blob/main/Certificate%20Providers/AppleP12.md)  
