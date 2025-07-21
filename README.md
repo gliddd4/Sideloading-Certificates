@@ -1,5 +1,7 @@
 # Sideloading Certificates
-Documentation on the most popular certificate providers along with a archive of enterprise certificates for people using the dns method. 
+Documentation on the most popular certificate providers along with a archive of **revoked** enterprise certificates for people using the dns method. 
+
+The revoked enterprise certificates are available in the enterprise certificates folder.
 
 Note: The AI used to format the pricing pulled the pricing from provider websites without context on which benefits apply to which plans. I’ll manually correct any inaccuracies in the future. For now this is a work in progress and shouldnt be relied on.
 
