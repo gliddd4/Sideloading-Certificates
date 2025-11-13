@@ -31,5 +31,4 @@ Note: The AI used to format the pricing pulled the pricing from provider website
 -->
 
 ## Want to contribute?
-- Share me the certificate providers website/tele/discord and I'll add it
-- Or use the ai prompt and make it yourself and then share it to me : )
+- Use the ai prompt and make a pull request
